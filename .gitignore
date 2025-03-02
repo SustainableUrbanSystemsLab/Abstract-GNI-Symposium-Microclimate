@@ -271,3 +271,5 @@ export_equations-crop.pdf
 
 # docx coversion
 *.docx
+
+.DS_STORE
