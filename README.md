@@ -1,8 +1,6 @@
 # A Comparative Study on the Urban Weather Generator: How Useful Is It for Urban Decision-Making?
 
-<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/Abstract-GNI-Symposium-Microclimate/main/Figures/Diurnal_Hottest_Month_July.png" width="400px">
-<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/Abstract-GNI-Symposium-Microclimate/main/Figures/georgia_tech_map_with_tiles.png" width="400px">
-
+<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/Abstract-GNI-Symposium-Microclimate/main/Figures/georgia_tech_map_with_tiles.png" width="350px"><img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/Abstract-GNI-Symposium-Microclimate/main/Figures/Diurnal_Hottest_Month_July.png" width="372px">
 
 ## Abstract
 Microclimates are localized regions in which environmental conditions differ from those of the surrounding areas. As urban areas grow, sustainable urban planning and microclimate management become increasingly important. The Urban Weather Generator (UWG) addresses some challenges by estimating hourly canopy and air temperatures with minimal computational overhead and only cursory building geometry inputs.
