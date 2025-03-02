@@ -1,5 +1,9 @@
 # A Comparative Study on the Urban Weather Generator: How Useful Is It for Urban Decision-Making?
 
+<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/Abstract-GNI-Symposium-Microclimate/main/Figures/Diurnal_Hottest_Month_July.png" width="400px">
+<img src="https://raw.githubusercontent.com/SustainableUrbanSystemsLab/Abstract-GNI-Symposium-Microclimate/main/Figures/georgia_tech_map_with_tiles.png" width="400px">
+
+
 ## Abstract
 Microclimates are localized regions in which environmental conditions differ from those of the surrounding areas. As urban areas grow, sustainable urban planning and microclimate management become increasingly important. The Urban Weather Generator (UWG) addresses some challenges by estimating hourly canopy and air temperatures with minimal computational overhead and only cursory building geometry inputs.
 
@@ -7,13 +11,9 @@ This study focuses on evaluating UWG’s usefulness for campus-scale decision-ma
 
 ## Authors
 - **Ze Yu Jiang**  
-  School of Computer Science, Georgia Tech, Atlanta, USA  
 - **Sofia Mujica**  
-  George W. Woodruff School of Mechanical Engineering, Georgia Tech, Atlanta, USA  
 - **Maryam Almaian**  
-  School of Architecture, Georgia Tech, Atlanta, USA  
 - **Patrick Kastner** (Corresponding Author)  
-  School of Architecture, Georgia Tech, Atlanta, USA  
   [patrick.kastner@gatech.edu](mailto:patrick.kastner@gatech.edu)
 
 ## Introduction
@@ -43,20 +43,13 @@ UWG’s relatively small data requirements and low computational overhead make i
 
 ## Repository Structure
 
-.
-├── Code/
-│   └── [Here](https://github.com/SustainableUrbanSystemsLab/CP-GNI2024-UWG)
-├── Figures/
-│   └── (Campus maps, radial plots, sensitivity index images, etc.)
-├── bib.bib
-│   └── (BibTeX references for citations)
-├── main.tex
-│   └── (LaTeX source for the complete paper)
-├── main.pdf
-│   └── (Compiled PDF version of the paper)
-└── README.md
-    └── (This file)
 
+- `Code` - [Here](https://github.com/SustainableUrbanSystemsLab/CP-GNI2024-UWG)
+- `Figures` - (Campus maps, radial plots, sensitivity index images, etc.)  
+- `bib.bib`  - (BibTeX references for citations)  
+- `main.tex`  - (LaTeX source for the complete paper)  
+- `main.pdf`  - (Compiled PDF version of the paper)  
+- `README.md`  - this document
 
 
 ## Keywords
@@ -72,7 +65,7 @@ If you wish to cite this work, you can use a format similar to:
   year      = {2024},
   address   = {Technical University of Munich}
 }
-
+```
 
 ---
 
